@@ -7,8 +7,8 @@ let segundoResultado = null;
 let movimientos = 0;
 let aciertos = 0;
 let Temporizador = false;
-let timerInicial = 30;
-let time = 30;
+let timerInicial = 45;
+let time = 45;
 let tiempoRegresivo = null;
 
 //Apuntando a elemento HTML
