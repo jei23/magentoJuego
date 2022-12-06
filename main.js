@@ -13,10 +13,10 @@ let tiempoRegresivo = null;
 
 //audio
 let winAudio = new Audio('./sounds/sound.wav');
-let loseAudio = new Audio('./sounds/sound.1');
-let clickAudio = new Audio('./sounds/sound.2');
-let rightAudio = new Audio('./sounds/sound.3');
-let wrongAudio = new Audio('./sounds/sound.4');
+let loseAudio = new Audio('./sounds/sound (1).wav');
+let clickAudio = new Audio('./sounds/sound (2).wav');
+let rightAudio = new Audio('./sounds/sound (3).wav');
+let wrongAudio = new Audio('./sounds/sound (4).wav');
 
 
 //Apuntando a elemento HTML
